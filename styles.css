@@ -1,0 +1,14 @@
+*{
+    background-color: darkblue;
+    color: lightgrey
+  }
+  
+  #navbar {
+    position: fixed;
+  }
+  
+  @media (max-width: 400px){
+  *{
+    background-color: green;
+    }
+  }
